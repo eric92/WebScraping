@@ -1,2 +1,2 @@
 # WebScraping
-pandas &amp; traditional
+pandas Webscraping
